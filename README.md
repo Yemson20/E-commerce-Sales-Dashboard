@@ -16,7 +16,7 @@ I ensure all columns are of the correct data types. Where I have the TotalAmount
 * Mismatch of ProductName to Category:
 I noticed there was mismatched on the Category column as against the ProductName. I used VLOOKUP to correct and match the ProductName with the right Category.
 ## Tools Used
-* Excel: I used excel for cleaning, formatting, creating pivot table, charts and designing my dashboard.
+* Microsoft Excel: I used excel for cleaning, formatting, creating pivot table, charts and designing my dashboard.
 ## Exploratory Data Analysis
 The exploratory data analysis provides insight into customer demographics, most popular products, and sales distribution across various referral sources. It examines key customer characteristics such as age, gender, location, and income, identifying the primary segments to better focus their marketing strategies. The analysis also highlights the bestselling products, enabling businesses to optimize inventory and improve sales performance. 
 ## Insight and Analysis
